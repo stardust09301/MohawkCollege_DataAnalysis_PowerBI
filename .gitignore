@@ -1,0 +1,6 @@
+echo "# Mohawk_DataAnalysis_PowerBI" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/stardust09301/Mohawk_DataAnalysis_PowerBI.git
