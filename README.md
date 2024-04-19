@@ -1,4 +1,4 @@
-# Mohawk_DataAnalysis_PowerBI
+# MohawkCollege_DataAnalysis_PowerBI
 Data Systems & Visualization for
 Manufacturing Course from Mohawk College
 In this course, I prepared and analyzed manufacturing information of a business
